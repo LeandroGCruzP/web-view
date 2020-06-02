@@ -8,13 +8,15 @@ function createWindow () {
     win = new BrowserWindow({
     width: config.width,
     height: config.height,
-    titleBarStyle: 'hidden',
+    //titleBarStyle: 'hidden',
     alwaysOnTop: true,
     backgroundColor: '#000000',
     webPreferences: {
       nodeIntegration: true
     }
   })
+
+  win.setMenuBarVisibility(false)
 
   // and load localhost:3000 of the app.
   win.loadURL(config.url)
