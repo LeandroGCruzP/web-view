@@ -1,5 +1,3 @@
 module.exports = {
-    url: "http://localhost:3000/",
-    width: "1000",
-    height: "800",
+    url: "file:///C:/Users/leo_c/Downloads/SO%20EVA%20II.pdf"
 }

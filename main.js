@@ -6,9 +6,9 @@ let win;
 function createWindow () {
   // Cria uma janela de navegação.
     win = new BrowserWindow({
-    width: config.width,
-    height: config.height,
-    //titleBarStyle: 'hidden',
+    width: 600,
+    height: 400,
+    titleBarStyle: 'hidden',
     alwaysOnTop: true,
     backgroundColor: '#000000',
     webPreferences: {
