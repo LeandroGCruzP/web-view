@@ -6,7 +6,7 @@
 
 ## 🕺 Clona este repositorio 🕺
 
-### 🖥 Aplicación: Para hacer funcionar web view debes clonar este repositório y extrailo dentro de tu ordenador, luego abre la pasta en tu VSCode y en el terminal escribe: yarn install (comnado para ejecutar todas las dependencias de package.json), despues de terminar de cargar anda al archivo config.js y configura la url que deseas ocupar y estará todo listo. 👌
+### 🖥 Aplicación: Para hacer funcionar web view debes clonar este repositório y extrailo dentro de tu ordenador, luego abre la pasta en tu VSCode y en el terminal escribe: yarn install (comnado para ejecutar todas las dependencias de package.json), despues de terminar de cargar anda al archivo config.js y configura la url que deseas ocupar y estará todo listo. 👌 Solo ejecutar con yarn start.
 
 ## 🔧 Para la cración de la aplicación se utilizó 🔧
 
