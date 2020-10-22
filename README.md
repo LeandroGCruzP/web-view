@@ -1,4 +1,4 @@
-#  Web view
+# Application desktop web view simple
 
 ## 🏁 Objetivo 🏁 
 
@@ -12,3 +12,6 @@
 
 ### ✅ ElectronJS
 ### ✅ JavaScript
+
+## ⚠️ NO TE OLVIDES ⚠️
+- 😀 [Sigueme en Github 🙋‍♂️❤️](https://github.com/LeandroGCruzP)
